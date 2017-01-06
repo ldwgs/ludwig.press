@@ -1,0 +1,8 @@
+#force www. in url
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^ludwig\.press$
+RewriteRule (.*) http://www.ludwig.press/$1 [R=301,L]
+
+#Remove html from pages
+RewriteEngine On
+redirectMatch 301 ^(.*)\.html $1
