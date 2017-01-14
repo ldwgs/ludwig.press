@@ -21,10 +21,78 @@
 .clearfix { display: block; }
 /* close commented backslash hack */
 
-/*Actual css content*/
+/* Smartphones (portrait and landscape) ———– */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+/* Styles */
+}
 
-html {
-	height: 100%;
+/* Smartphones (landscape) ———– */
+@media only screen
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ———– */
+@media only screen
+and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ———– */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ———– */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ———– */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+/* Styles */
+}
+
+/* Desktops and laptops ———– */
+@media only screen
+and (min-width : 1224px) {
+/* Styles */
+#all-middle {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+}
+
+/* Large screens ———– */
+@media only screen
+and (min-width : 1824px) {
+/* Styles */
+#all-middle {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+}
+
+/* iPhone 4 ———– */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+}
+
+/*Actual css content*/
+html{
+  height: 100%;
 }
 
 body {
@@ -41,13 +109,12 @@ header, h1, h2, h3, p, pre, a {
 	color: white;
 }
 
-#all-middle {
-	align-content: center;
-}
-
-.nav-footer {
-
-}
+/*#all-middle {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 50%;
+  margin-top: 50%;
+}*/
 
 /*Index Page*/
 .mainpage-image {
