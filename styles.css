@@ -58,7 +58,7 @@ header, h1, h2, h3, p, pre, a {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 100px;
+    padding-top: 4%;
 }
 
 .mainpage-image h1 {
@@ -74,7 +74,6 @@ header, h1, h2, h3, p, pre, a {
 .main-nav {
 	font-size: 30px;
 	font-family: 'Space Mono', monospace;
-	padding-left: 20px;
 	float: center;
 	text-align: center;
 }
@@ -96,7 +95,7 @@ header, h1, h2, h3, p, pre, a {
 .main-nav ul li a {
 	text-decoration: none;
 	color: #FFF;
-	padding-right: 40px;
+	padding-right: 2%;
 	text-align: center;
 }
 
