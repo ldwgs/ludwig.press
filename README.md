@@ -1,5 +1,5 @@
 18 Jan 2017
-- is this working?
+- is this working??
 
 17 Jan 2017 - I should really put in some notes for future self to reflect upon. So I'll start off here, 3 days or so after publishing this repo. The topest of kek.
 - modified .htaccess file because it gave the website a 404 error. commented out the bad code and replaced it with another string of text. website is up again.
