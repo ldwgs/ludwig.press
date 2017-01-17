@@ -109,13 +109,6 @@ header, h1, h2, h3, p, pre, a {
 	color: white;
 }
 
-/*#all-middle {
-  margin-left: 20%;
-  margin-right: 20%;
-  margin-bottom: 50%;
-  margin-top: 50%;
-}*/
-
 /*Index Page*/
 .mainpage-image {
 	object-fit: contain;
@@ -179,6 +172,12 @@ header, h1, h2, h3, p, pre, a {
   padding-right: 20%;
 }
 
+.line {
+  float: center;
+  padding-bottom: 0;
+  margin: 0;
+}
+
 /*Bio/Contact*/
 
 .content {
@@ -202,6 +201,12 @@ header, h1, h2, h3, p, pre, a {
 	height: auto;
 	float: left;
 	padding-left: 40px;
+}
+
+.center-text {
+  width: 1%;
+  height: auto;
+  float: center;
 }
 
 .right-text {
