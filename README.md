@@ -1,5 +1,6 @@
 19 Jan 2017
-- wondering if the linking to other elements of the web upon my website is a little unstable. i think its fine for things that need proper hosting like music and whatnot. medias like pictures might be a little unstable to keep linking from the web. its much safer to save the picture and link it in the directory of my public_html folder. because if i link a picture from the web, the source might be down and it'll push out a blank image. which isnt desirable most times. 
+- added a blog post. engh, need to eat. this cup of tea is barely giving me enough energy.
+- wondering if the linking to other elements of the web upon my website is a little unstable. i think its fine for things that need proper hosting like music and whatnot. medias like pictures might be a little unstable to keep linking from the web. its much safer to save the picture and link it in the directory of my public_html folder. because if i link a picture from the web, the source might be down and it'll push out a blank image. which isnt desirable most times.
 
 18 Jan 2017
 - added a blog post. played around with embedding items from the web. included 2 songs that i came across and edited a little bit of the embedding string to fit into my layout. the emebedding link is from SOUNDCLOUD.  
