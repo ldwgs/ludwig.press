@@ -1,5 +1,5 @@
 21 Jan 2017
-- added a blog post.ss
+- added a new blog post
 
 19 Jan 2017
 - added a blog post. engh, need to eat. this cup of tea is barely giving me enough energy.
