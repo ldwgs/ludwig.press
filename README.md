@@ -1,5 +1,6 @@
 21 Jan 2017
-- added a new blog post
+- i also fixed the Git push, pull and commit commands on Atom. The error was that there were local files that contradict the ones that were on GitHub, so i needed to either move the local files or remove them and then pull straight from GitHub and then finally, commit all and push back. Uhhh, that was exactly what i did by the way. And it worked! Praise Gaben. 
+- added a new blog post just explaining a little bit about front-end, back-end and full-stack developers. its all quite interesting. but i think that it's better to have a team you can rely on and get feedback and fresh ideas from rather than having a single linear biased vision of how a product should look. when people say 'when there are too many chefs in the kitchen, the food could end up tasting bad'. i disagree with that. i think that its healthy to have various inputs from your team members or even just a second opinion to show that there are other aspects or elements that might have been overlooked. it could end up creating an even better product.
 
 19 Jan 2017
 - added a blog post. engh, need to eat. this cup of tea is barely giving me enough energy.
