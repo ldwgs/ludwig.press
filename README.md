@@ -1,4 +1,5 @@
 27 Jan 2017
+-sss
 - the blog page is a little long now so i wanted to put a 'back to top' link so that users can easily scroll back to the top with one simple click. i didnt want it to be a simple text link however. so i checked online for some widgets and buttons that would be aesthetically pleasing and functional for the site. settled down on a codyhouse's back to top widget: https://codyhouse.co/gem/back-to-top/ .
 pretty cool. very functional and aesthetically pleasing as it only appears after the user scroll down the page and becomes hidden the rest of the time, or rather, when the user is already at the top of the page.
 javascript though, very foreign to me so i'll need to study up so that i can customize it to really fit onto my site.  
