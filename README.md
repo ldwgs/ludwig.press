@@ -1,3 +1,9 @@
+27 Jan 2017
+- the blog page is a little long now so i wanted to put a 'back to top' link so that users can easily scroll back to the top with one simple click. i didnt want it to be a simple text link however. so i checked online for some widgets and buttons that would be aesthetically pleasing and functional for the site. settled down on a codyhouse's back to top widget: https://codyhouse.co/gem/back-to-top/ .
+pretty cool. very functional and aesthetically pleasing as it only appears after the user scroll down the page and becomes hidden the rest of the time, or rather, when the user is already at the top of the page.
+javascript though, very foreign to me so i'll need to study up so that i can customize it to really fit onto my site.  
+- been a while. been neglecting my website for the past couple of days. was studying up little discrete maths and logic for uni. did you know that if a set is empty, it is still not really empty because theres still an element in there which correlates to it being empty but really not? maths is fun.
+
 21 Jan 2017
 - alright sweet, it worked. i changed my username oh GitHub so i was getting an error whenever i was committing and pushing my files onto GitHub. it would say that the repository im trying to push my files onto has changed and it gives me the HTTP address of the changed location. i guess there is some sort of other way that Git or Atom or the GitPlus package knows the changed location because whenever i was pushing code, Git would push code onto the correct repository even though i have not changed the repository location locally. quite smart and efficient.
 - test for pushing to new repository location.
