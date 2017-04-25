@@ -1,5 +1,6 @@
 /*Imports*/
 
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 @import url('https://fonts.googleapis.com/css?family=Space+Mono');
@@ -192,7 +193,7 @@ header, h1, h2, h3, p, pre, a {
 
 .main-nav {
 	font-size: 30px;
-	font-family: 'Space Mono', monospace;
+  font-family: 'Source Sans Pro', sans-serif;
 	float: center;
 	text-align: center;
 }
